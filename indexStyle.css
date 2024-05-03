@@ -1,0 +1,45 @@
+body{
+    background-color: antiquewhite;
+}
+
+.curved{
+    background: blue;
+    color:white;
+    text-align: center;
+}
+.curved h1{
+    font-size: 6rem;
+    margin-top: 0;
+}
+.curved p{
+    font-size: 1rem;
+    margin: 0 5rem 0 5rem;
+}
+
+.curved svg{
+    display: block;
+}
+
+
+.footer{
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.footer a{
+    color:black;
+    margin: 5px;
+}
+
+i:hover {
+    color: #AEC6CF;
+    transition: 0.4s;
+    cursor: pointer;
+  }
